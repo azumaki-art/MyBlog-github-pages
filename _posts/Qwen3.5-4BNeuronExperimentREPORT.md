@@ -1,5 +1,10 @@
-# 实测评估报告 — Qwen3.5-4B 神经元干预
+---
+title: "Evaluation Report — Neuron Intervention for Qwen3.5-4B"
+date: 2026-10-28
+description: "机器：MoPaaS DCU `K500SM_AI`（64 GiB HBM）· torch 2.4.1+dtk2504 · transformers 5.13.1"
+---
 
+# 实测评估报告 — Qwen3.5-4B 神经元干预
 日期：2026-10-28 · 机器：MoPaaS DCU `K500SM_AI`（64 GiB HBM）· torch 2.4.1+dtk2504 · transformers 5.13.1
 
 ---
