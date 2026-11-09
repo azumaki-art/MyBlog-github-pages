@@ -1,3 +1,12 @@
+---
+title: "Project Summary 1109"
+date: 2026-11-09
+description: "Qwen3.5-4B Neuron Steering Report"
+Environment: "MoPaaS DCU `K500SM_AI`（64 GiB HBM）· torch 2.4.1+dtk2504 · transformers 5.13.1"
+---
+
+# 实测评估报告 — Qwen3.5-4B 神经元干预
+---
 # Qwen3.5-4B 神经元干预（Neuron Steering）实验成果与技术总结报告
 
 > **项目名称**：Qwen3.5-4B 特异性神经元干预与反派/人格表征调控研究  
@@ -251,4 +260,4 @@ flowchart TD
 ---
 
 *报告更新日期：2026-11-09*  
-*数据基线：`report/` 目录下全部 CSV 文件及 `OutputLogs1–3.txt` 全量实测日志*
+*数据基线：实测日志
